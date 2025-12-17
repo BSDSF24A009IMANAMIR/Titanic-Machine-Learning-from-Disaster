@@ -1,11 +1,10 @@
- Library             Use                                   
- ------------------  ------------------------------------- 
- google.colab.files  Upload datasets                       
- pandas              Data loading, cleaning, preprocessing 
- scikit-learn        Machine learning & evaluation         
- matplotlib          Basic plotting                        
- seaborn             Statistical visualizations            
- IPython.display     Display plots in Colab                                        
- Streamlit           Frontend UI, user interaction, visualization 
- Pandas              Data loading, EDA, feature formatting        
- Pickle              Model persistence and loading                
+ google.colab.files                      
+ pandas              
+ scikit-learn              
+ matplotlib                           
+ seaborn                      
+ IPython.display                                            
+ Streamlit           
+ Pandas                    
+ Pickle                    
+
