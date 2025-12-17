@@ -1,9 +1,7 @@
- google.colab.files                      
- pandas              
- scikit-learn              
- matplotlib                           
- seaborn                      
- IPython.display                                            
- Streamlit           
- Pandas                    
- Pickle                    
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
